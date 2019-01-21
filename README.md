@@ -1,7 +1,7 @@
 # Font-Awesome-Icons-Lists
 Lists of all icons for [Font-Awesome](https://fontawesome.com/)  in PHP array
 
-Current list of icons for version Font-Awesome 5.4.1
+Current list of icons for version Font-Awesome 5.6.3
 
 **The files**:
 * free-only-icons.php - include the list of the icons only Free version Font-Awesome
